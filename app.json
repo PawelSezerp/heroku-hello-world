@@ -1,5 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "Start on Heroku: Java",
   "description": "A barebones Java app, which can easily be deployed to Heroku.",
   "addons": [ "heroku-postgresql" ]
+=======
+  "name": "heroku-hello-world",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+>>>>>>> a8f1aa3c450d8e2958f83486563aefe4a75dd1e8
 }

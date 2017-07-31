@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java-getting-started
 
 A barebones Java app, which can easily be deployed to Heroku.
@@ -38,3 +39,7 @@ $ heroku open
 For more information about using Java on Heroku, see these Dev Center articles:
 
 - [Java on Heroku](https://devcenter.heroku.com/categories/java)
+=======
+# heroku-hello-world
+Test of integration slack - heroku ChatOps - gitHub
+>>>>>>> a8f1aa3c450d8e2958f83486563aefe4a75dd1e8
