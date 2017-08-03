@@ -61,6 +61,7 @@ public class Main {
       stmt.executeUpdate("INSERT INTO ticks VALUES (now())");
       ResultSet rs = stmt.executeQuery("SELECT tick FROM ticks");
       System.out.println("log");
+      System.out.println("log2");
 
       ArrayList<String> output = new ArrayList<String>();
       while (rs.next()) {
