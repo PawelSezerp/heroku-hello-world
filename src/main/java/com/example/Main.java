@@ -62,6 +62,7 @@ public class Main {
       ResultSet rs = stmt.executeQuery("SELECT tick FROM ticks");
       System.out.println("log");
       System.out.println("log2");
+      System.out.println("log3");
 
       ArrayList<String> output = new ArrayList<String>();
       while (rs.next()) {
